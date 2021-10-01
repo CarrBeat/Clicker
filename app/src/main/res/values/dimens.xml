@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fon_border">10dp</dimen>
+    <dimen name="size">150dp</dimen>
+    <dimen name="sizel">160dp</dimen>
+    <dimen name="textSize">75sp</dimen>
+</resources>
